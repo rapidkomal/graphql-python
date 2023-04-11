@@ -29,15 +29,15 @@ The Mutation type provides the following fields:
   * email (required): Email address of the user.
 
 
-####Install enviroment as venv
+#### Install enviroment as venv
 ```python3 -m venv venv```
 
-####Activate env
+#### Activate env
 ```source venv/bin/activate```
 
-####Install requirements
+#### Install requirements
 ```pip install -r requirements.txt```
 
-####Run application
+#### Run application
 ```python app.py```
 
